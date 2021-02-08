@@ -1,0 +1,10 @@
+{
+    "name": "Mux.Markup.Animation",
+    "references": [
+        "Mux.Markup"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

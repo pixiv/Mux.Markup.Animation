@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "pixiv Inc.",
+    "url": "https://www.pixiv.co.jp/"
+  },
+  "dependencies": {
+    "com.pixiv.mux": "0.0.0"
+  },
+  "description": "Mux.Markup.Animation is a wrapper of UnityEngine.AnimationModule for Mux.",
+  "displayName": "Mux.Markup.Animation",
+  "name": "com.pixiv.mux.markup.animation",
+  "unity": "2019.1",
+  "version": "0.0.0"
+}
